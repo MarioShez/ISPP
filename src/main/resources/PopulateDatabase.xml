@@ -4081,7 +4081,7 @@
 		<property name="daysRepeat" value="FRIDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -4102,7 +4102,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4124,7 +4124,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="8" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -4146,7 +4146,7 @@
 		<property name="daysRepeat" value="THURSDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="8" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4167,7 +4167,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="4" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4189,7 +4189,7 @@
 		<property name="daysRepeat" value="SATURDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="4" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4211,7 +4211,7 @@
 		<property name="daysRepeat" value="FRIDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="3" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -4232,7 +4232,7 @@
 		<property name="daysRepeat" value="FRIDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="6" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -4253,7 +4253,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="4" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4275,7 +4275,7 @@
 		<property name="daysRepeat" value="SATURDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="7" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -4296,7 +4296,7 @@
 		<property name="daysRepeat" value="MONDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="6" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4317,7 +4317,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="11" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -4338,7 +4338,7 @@
 		<property name="daysRepeat" value="SUNDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -4359,7 +4359,7 @@
 		<property name="daysRepeat" value="THURSDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="3" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -4380,7 +4380,7 @@
 		<property name="daysRepeat" value="SUNDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="10" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -4401,7 +4401,7 @@
 		<property name="daysRepeat" value="MONDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -4422,7 +4422,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="8" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -4443,7 +4443,7 @@
 		<property name="daysRepeat" value="MONDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="11" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4464,7 +4464,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="10" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -4485,7 +4485,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="5" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -4507,7 +4507,7 @@
 		<property name="daysRepeat" value="THURSDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="10" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -4529,7 +4529,7 @@
 		<property name="daysRepeat" value="FRIDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4550,7 +4550,7 @@
 		<property name="daysRepeat" value="SUNDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="6" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -4571,7 +4571,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="11" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -4593,7 +4593,7 @@
 		<property name="daysRepeat" value="MONDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="6" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -4614,7 +4614,7 @@
 		<property name="daysRepeat" value="SATURDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="5" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -4635,7 +4635,7 @@
 		<property name="daysRepeat" value="THURSDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="3" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -4657,7 +4657,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="10" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -4678,7 +4678,7 @@
 		<property name="daysRepeat" value="THURSDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4700,7 +4700,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="3" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -4722,7 +4722,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="10" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4743,7 +4743,7 @@
 		<property name="daysRepeat" value="MONDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="4" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -4764,7 +4764,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="4" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -4786,7 +4786,7 @@
 		<property name="daysRepeat" value="SATURDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -4807,7 +4807,7 @@
 		<property name="daysRepeat" value="SUNDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="7" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4828,7 +4828,7 @@
 		<property name="daysRepeat" value="FRIDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="5" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -4849,7 +4849,7 @@
 		<property name="daysRepeat" value="THURSDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="4" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -4870,7 +4870,7 @@
 		<property name="daysRepeat" value="SATURDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4893,7 +4893,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="7" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -4914,7 +4914,7 @@
 		<property name="daysRepeat" value="MONDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="6" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4935,7 +4935,7 @@
 		<property name="daysRepeat" value="SUNDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="5" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -4957,7 +4957,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -4978,7 +4978,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="11" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -4999,7 +4999,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="8" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -5020,7 +5020,7 @@
 		<property name="daysRepeat" value="SUNDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="11" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -5042,7 +5042,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="6" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -5064,7 +5064,7 @@
 		<property name="daysRepeat" value="SATURDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="8" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -5085,7 +5085,7 @@
 		<property name="daysRepeat" value="SUNDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -5106,7 +5106,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="8" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5127,7 +5127,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="5" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -5149,7 +5149,7 @@
 		<property name="daysRepeat" value="THURSDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="11" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -5170,7 +5170,7 @@
 		<property name="daysRepeat" value="MONDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="3" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -5191,7 +5191,7 @@
 		<property name="daysRepeat" value="THURSDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="3" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5212,7 +5212,7 @@
 		<property name="daysRepeat" value="FRIDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="6" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5233,7 +5233,7 @@
 		<property name="daysRepeat" value="THURSDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="6" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -5254,7 +5254,7 @@
 		<property name="daysRepeat" value="FRIDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="8" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -5276,7 +5276,7 @@
 		<property name="daysRepeat" value="SUNDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="10" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -5297,7 +5297,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="6" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5319,7 +5319,7 @@
 		<property name="daysRepeat" value="SATURDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="3" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -5340,7 +5340,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="8" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5361,7 +5361,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="4" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5382,7 +5382,7 @@
 		<property name="daysRepeat" value="SATURDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="6" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5403,7 +5403,7 @@
 		<property name="daysRepeat" value="THURSDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5424,7 +5424,7 @@
 		<property name="daysRepeat" value="FRIDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="11" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -5445,7 +5445,7 @@
 		<property name="daysRepeat" value="SUNDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="11" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -5466,7 +5466,7 @@
 		<property name="daysRepeat" value="THURSDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="7" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5487,7 +5487,7 @@
 		<property name="daysRepeat" value="SUNDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="4" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5509,7 +5509,7 @@
 		<property name="daysRepeat" value="FRIDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="3" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -5530,7 +5530,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="5" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5551,7 +5551,7 @@
 		<property name="daysRepeat" value="MONDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="5" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -5572,7 +5572,7 @@
 		<property name="daysRepeat" value="SATURDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="11" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -5593,7 +5593,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="4" />
 		<property name="distance" value="5" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -5614,7 +5614,7 @@
 		<property name="daysRepeat" value="MONDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="7" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="SMALL" />
 		<property name="isCancelled" value="false" />
@@ -5635,7 +5635,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="MEDIUM" />
 		<property name="isCancelled" value="false" />
@@ -5657,7 +5657,7 @@
 		<property name="daysRepeat" value="SUNDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="7" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -5679,7 +5679,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="5" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -5700,7 +5700,7 @@
 		<property name="daysRepeat" value="WEDNESDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="7" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="NOTHING" />
 		<property name="isCancelled" value="false" />
@@ -5721,7 +5721,7 @@
 		<property name="daysRepeat" value="TUESDAY" />
 		<property name="availableSeats" value="1" />
 		<property name="distance" value="9" />
-		<property name="pricePerPassenger" value="1.1" />
+		<property name="pricePerPassenger" value="1.25" />
 		<property name="details" value="" />
 		<property name="maxLuggage" value="BIG" />
 		<property name="isCancelled" value="false" />
@@ -7455,7 +7455,7 @@
 	<bean id="reservation1" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida del Cid, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -7466,7 +7466,7 @@
 	<bean id="reservation2" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -7477,7 +7477,7 @@
 	<bean id="reservation3" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Gran Plaza, Sevilla" />
 		<property name="destination" value="Camas, Sevilla" />
 		<property name="seat" value="1" />
@@ -7488,7 +7488,7 @@
 	<bean id="reservation4" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="destination" value="Macarena, Sevilla" />
 		<property name="seat" value="1" />
@@ -7499,7 +7499,7 @@
 	<bean id="reservation5" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Montequinto, Sevilla" />
 		<property name="destination" value="Gran Plaza, Sevilla" />
 		<property name="seat" value="1" />
@@ -7510,7 +7510,7 @@
 	<bean id="reservation6" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -7521,7 +7521,7 @@
 	<bean id="reservation7" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Sevilla Este, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -7532,7 +7532,7 @@
 	<bean id="reservation8" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida del Cid, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
 		<property name="seat" value="1" />
@@ -7543,7 +7543,7 @@
 	<bean id="reservation9" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida de El Greco, Sevilla" />
 		<property name="destination" value="Gran Plaza, Sevilla" />
 		<property name="seat" value="1" />
@@ -7554,7 +7554,7 @@
 	<bean id="reservation10" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida de El Greco, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -7565,7 +7565,7 @@
 	<bean id="reservation11" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
@@ -7577,7 +7577,7 @@
 	<bean id="reservation12" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -7588,7 +7588,7 @@
 	<bean id="reservation13" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida de El Greco, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -7599,7 +7599,7 @@
 	<bean id="reservation14" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Camas, Sevilla" />
 		<property name="destination" value="Avenida del Cid, Sevilla" />
 		<property name="seat" value="1" />
@@ -7610,7 +7610,7 @@
 	<bean id="reservation15" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Calle Jilguero, Sevilla" />
 		<property name="destination" value="Sevilla Este, Sevilla" />
 		<property name="seat" value="1" />
@@ -7621,7 +7621,7 @@
 	<bean id="reservation16" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Sevilla Este, Sevilla" />
 		<property name="destination" value="Calle Jilguero, Sevilla" />
 		<property name="seat" value="1" />
@@ -7632,7 +7632,7 @@
 	<bean id="reservation17" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="destination" value="Macarena, Sevilla" />
 		<property name="seat" value="1" />
@@ -7643,7 +7643,7 @@
 	<bean id="reservation18" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Camas, Sevilla" />
 		<property name="destination" value="Felipe II, Sevilla" />
 		<property name="seat" value="1" />
@@ -7654,7 +7654,7 @@
 	<bean id="reservation19" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -7665,7 +7665,7 @@
 	<bean id="reservation20" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Gran Plaza, Sevilla" />
 		<property name="destination" value="Camas, Sevilla" />
 		<property name="seat" value="1" />
@@ -7676,7 +7676,7 @@
 	<bean id="reservation21" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Plaza del Duque de la Victoria, Sevilla" />
@@ -7688,7 +7688,7 @@
 	<bean id="reservation22" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Torre Sevilla, Sevilla" />
 		<property name="destination" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="seat" value="1" />
@@ -7699,7 +7699,7 @@
 	<bean id="reservation23" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Macarena, Sevilla" />
 		<property name="seat" value="1" />
@@ -7710,7 +7710,7 @@
 	<bean id="reservation24" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Camas, Sevilla" />
 		<property name="destination" value="Felipe II, Sevilla" />
 		<property name="seat" value="1" />
@@ -7721,7 +7721,7 @@
 	<bean id="reservation25" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Calle Jilguero, Sevilla" />
 		<property name="destination" value="Sevilla Este, Sevilla" />
 		<property name="seat" value="1" />
@@ -7732,7 +7732,7 @@
 	<bean id="reservation26" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Calle Jilguero, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -7743,7 +7743,7 @@
 	<bean id="reservation27" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Camas, Sevilla" />
 		<property name="destination" value="Felipe II, Sevilla" />
 		<property name="seat" value="1" />
@@ -7754,7 +7754,7 @@
 	<bean id="reservation28" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
@@ -7766,7 +7766,7 @@
 	<bean id="reservation29" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Sevilla Este, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -7777,7 +7777,7 @@
 	<bean id="reservation30" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Plaza del Duque de la Victoria, Sevilla" />
@@ -7789,7 +7789,7 @@
 	<bean id="reservation31" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -7800,7 +7800,7 @@
 	<bean id="reservation32" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Sevilla Este, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -7811,7 +7811,7 @@
 	<bean id="reservation33" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Sevilla Este, Sevilla" />
 		<property name="destination" value="Calle Jilguero, Sevilla" />
 		<property name="seat" value="1" />
@@ -7822,7 +7822,7 @@
 	<bean id="reservation34" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Plaza del Duque de la Victoria, Sevilla" />
@@ -7834,7 +7834,7 @@
 	<bean id="reservation35" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Gran Plaza, Sevilla" />
 		<property name="destination" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="seat" value="1" />
@@ -7845,7 +7845,7 @@
 	<bean id="reservation36" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida de El Greco, Sevilla" />
 		<property name="destination" value="Gran Plaza, Sevilla" />
 		<property name="seat" value="1" />
@@ -7856,7 +7856,7 @@
 	<bean id="reservation37" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Macarena, Sevilla" />
@@ -7868,7 +7868,7 @@
 	<bean id="reservation38" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Torre Sevilla, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -7879,7 +7879,7 @@
 	<bean id="reservation39" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Camas, Sevilla" />
 		<property name="destination" value="Avenida del Cid, Sevilla" />
 		<property name="seat" value="1" />
@@ -7890,7 +7890,7 @@
 	<bean id="reservation40" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Sevilla Este, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -7901,7 +7901,7 @@
 	<bean id="reservation41" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="destination" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="seat" value="1" />
@@ -7912,7 +7912,7 @@
 	<bean id="reservation42" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Plaza del Duque de la Victoria, Sevilla" />
@@ -7924,7 +7924,7 @@
 	<bean id="reservation43" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
@@ -7936,7 +7936,7 @@
 	<bean id="reservation44" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida de El Greco, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -7947,7 +7947,7 @@
 	<bean id="reservation45" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida de El Greco, Sevilla" />
 		<property name="destination" value="Gran Plaza, Sevilla" />
 		<property name="seat" value="1" />
@@ -7958,7 +7958,7 @@
 	<bean id="reservation46" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
@@ -7970,7 +7970,7 @@
 	<bean id="reservation47" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -7981,7 +7981,7 @@
 	<bean id="reservation48" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Camas, Sevilla" />
 		<property name="destination" value="Felipe II, Sevilla" />
 		<property name="seat" value="1" />
@@ -7992,7 +7992,7 @@
 	<bean id="reservation49" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida del Cid, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8003,7 +8003,7 @@
 	<bean id="reservation50" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
 		<property name="destination" value="Calle Jilguero, Sevilla" />
@@ -8015,7 +8015,7 @@
 	<bean id="reservation51" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Felipe II, Sevilla" />
 		<property name="destination" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="seat" value="1" />
@@ -8026,7 +8026,7 @@
 	<bean id="reservation52" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Gran Plaza, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -8037,7 +8037,7 @@
 	<bean id="reservation53" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Macarena, Sevilla" />
 		<property name="destination"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
@@ -8049,7 +8049,7 @@
 	<bean id="reservation54" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Torre Sevilla, Sevilla" />
 		<property name="destination" value="Macarena, Sevilla" />
 		<property name="seat" value="1" />
@@ -8060,7 +8060,7 @@
 	<bean id="reservation55" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Sevilla Este, Sevilla" />
@@ -8072,7 +8072,7 @@
 	<bean id="reservation56" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida del Cid, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
 		<property name="seat" value="1" />
@@ -8083,7 +8083,7 @@
 	<bean id="reservation57" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
@@ -8095,7 +8095,7 @@
 	<bean id="reservation58" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Montequinto, Sevilla" />
 		<property name="destination" value="Camas, Sevilla" />
 		<property name="seat" value="1" />
@@ -8106,7 +8106,7 @@
 	<bean id="reservation59" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Torre Sevilla, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8117,7 +8117,7 @@
 	<bean id="reservation60" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="destination" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="seat" value="1" />
@@ -8128,7 +8128,7 @@
 	<bean id="reservation61" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Felipe II, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -8139,7 +8139,7 @@
 	<bean id="reservation62" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Gran Plaza, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -8150,7 +8150,7 @@
 	<bean id="reservation63" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Montequinto, Sevilla" />
 		<property name="destination" value="Gran Plaza, Sevilla" />
 		<property name="seat" value="1" />
@@ -8161,7 +8161,7 @@
 	<bean id="reservation64" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Felipe II, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
 		<property name="seat" value="1" />
@@ -8172,7 +8172,7 @@
 	<bean id="reservation65" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Montequinto, Sevilla" />
 		<property name="destination" value="Camas, Sevilla" />
 		<property name="seat" value="1" />
@@ -8183,7 +8183,7 @@
 	<bean id="reservation66" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Macarena, Sevilla" />
 		<property name="destination" value="Camas, Sevilla" />
 		<property name="seat" value="1" />
@@ -8194,7 +8194,7 @@
 	<bean id="reservation67" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8205,7 +8205,7 @@
 	<bean id="reservation68" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Calle Jilguero, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
 		<property name="seat" value="1" />
@@ -8216,7 +8216,7 @@
 	<bean id="reservation69" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Felipe II, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
 		<property name="seat" value="1" />
@@ -8227,7 +8227,7 @@
 	<bean id="reservation70" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
@@ -8239,7 +8239,7 @@
 	<bean id="reservation71" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination" value="Camas, Sevilla" />
 		<property name="seat" value="1" />
@@ -8250,7 +8250,7 @@
 	<bean id="reservation72" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Sevilla Este, Sevilla" />
 		<property name="destination" value="Calle Jilguero, Sevilla" />
 		<property name="seat" value="1" />
@@ -8261,7 +8261,7 @@
 	<bean id="reservation73" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida de El Greco, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -8272,7 +8272,7 @@
 	<bean id="reservation74" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -8283,7 +8283,7 @@
 	<bean id="reservation75" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -8294,7 +8294,7 @@
 	<bean id="reservation76" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
@@ -8306,7 +8306,7 @@
 	<bean id="reservation77" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida de El Greco, Sevilla" />
 		<property name="destination" value="Gran Plaza, Sevilla" />
 		<property name="seat" value="1" />
@@ -8317,7 +8317,7 @@
 	<bean id="reservation78" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Torre Sevilla, Sevilla" />
 		<property name="destination" value="San Bernardo, Sevilla" />
 		<property name="seat" value="1" />
@@ -8328,7 +8328,7 @@
 	<bean id="reservation79" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
@@ -8340,7 +8340,7 @@
 	<bean id="reservation80" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida del Cid, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8351,7 +8351,7 @@
 	<bean id="reservation81" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Sevilla Este, Sevilla" />
 		<property name="destination" value="Gran Plaza, Sevilla" />
 		<property name="seat" value="1" />
@@ -8362,7 +8362,7 @@
 	<bean id="reservation82" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -8373,7 +8373,7 @@
 	<bean id="reservation83" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8384,7 +8384,7 @@
 	<bean id="reservation84" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8395,7 +8395,7 @@
 	<bean id="reservation85" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida de El Greco, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -8406,7 +8406,7 @@
 	<bean id="reservation86" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida del Cid, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8417,7 +8417,7 @@
 	<bean id="reservation87" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
@@ -8429,7 +8429,7 @@
 	<bean id="reservation88" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
@@ -8441,7 +8441,7 @@
 	<bean id="reservation89" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Camas, Sevilla" />
 		<property name="destination"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
@@ -8453,7 +8453,7 @@
 	<bean id="reservation90" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Sevilla Este, Sevilla" />
 		<property name="destination" value="Gran Plaza, Sevilla" />
 		<property name="seat" value="1" />
@@ -8464,7 +8464,7 @@
 	<bean id="reservation91" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
 		<property name="seat" value="1" />
@@ -8475,7 +8475,7 @@
 	<bean id="reservation92" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
@@ -8487,7 +8487,7 @@
 	<bean id="reservation93" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Calle Jilguero, Sevilla" />
 		<property name="destination" value="Macarena, Sevilla" />
 		<property name="seat" value="1" />
@@ -8498,7 +8498,7 @@
 	<bean id="reservation94" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Calle Jilguero, Sevilla" />
 		<property name="destination" value="Macarena, Sevilla" />
 		<property name="seat" value="1" />
@@ -8509,7 +8509,7 @@
 	<bean id="reservation95" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Torre Sevilla, Sevilla" />
 		<property name="destination" value="Felipe II, Sevilla" />
 		<property name="seat" value="1" />
@@ -8520,7 +8520,7 @@
 	<bean id="reservation96" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
@@ -8532,7 +8532,7 @@
 	<bean id="reservation97" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -8543,7 +8543,7 @@
 	<bean id="reservation98" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination"
@@ -8556,7 +8556,7 @@
 	<bean id="reservation99" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Calle Jilguero, Sevilla" />
 		<property name="destination" value="Macarena, Sevilla" />
 		<property name="seat" value="1" />
@@ -8567,7 +8567,7 @@
 	<bean id="reservation100" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Sevilla Este, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -8578,7 +8578,7 @@
 	<bean id="reservation101" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Gran Plaza, Sevilla" />
 		<property name="destination" value="Camas, Sevilla" />
 		<property name="seat" value="1" />
@@ -8589,7 +8589,7 @@
 	<bean id="reservation102" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Camas, Sevilla" />
 		<property name="destination" value="Avenida del Cid, Sevilla" />
 		<property name="seat" value="1" />
@@ -8600,7 +8600,7 @@
 	<bean id="reservation103" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida del Cid, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8611,7 +8611,7 @@
 	<bean id="reservation104" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination"
@@ -8624,7 +8624,7 @@
 	<bean id="reservation105" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Plaza del Duque de la Victoria, Sevilla" />
@@ -8636,7 +8636,7 @@
 	<bean id="reservation106" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Camas, Sevilla" />
 		<property name="destination" value="Avenida del Cid, Sevilla" />
 		<property name="seat" value="1" />
@@ -8647,7 +8647,7 @@
 	<bean id="reservation107" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination"
@@ -8660,7 +8660,7 @@
 	<bean id="reservation108" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Camas, Sevilla" />
 		<property name="destination" value="Avenida del Cid, Sevilla" />
 		<property name="seat" value="1" />
@@ -8671,7 +8671,7 @@
 	<bean id="reservation109" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Felipe II, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -8682,7 +8682,7 @@
 	<bean id="reservation110" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Felipe II, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
 		<property name="seat" value="1" />
@@ -8693,7 +8693,7 @@
 	<bean id="reservation111" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida de El Greco, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -8704,7 +8704,7 @@
 	<bean id="reservation112" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
@@ -8716,7 +8716,7 @@
 	<bean id="reservation113" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Gran Plaza, Sevilla" />
 		<property name="destination" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="seat" value="1" />
@@ -8727,7 +8727,7 @@
 	<bean id="reservation114" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
@@ -8739,7 +8739,7 @@
 	<bean id="reservation115" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Montequinto, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -8750,7 +8750,7 @@
 	<bean id="reservation116" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="destination" value="Macarena, Sevilla" />
 		<property name="seat" value="1" />
@@ -8761,7 +8761,7 @@
 	<bean id="reservation117" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Calle Jilguero, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8772,7 +8772,7 @@
 	<bean id="reservation118" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Gran Plaza, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -8783,7 +8783,7 @@
 	<bean id="reservation119" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Torre Sevilla, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8794,7 +8794,7 @@
 	<bean id="reservation120" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Macarena, Sevilla" />
 		<property name="destination" value="Camas, Sevilla" />
 		<property name="seat" value="1" />
@@ -8805,7 +8805,7 @@
 	<bean id="reservation121" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Macarena, Sevilla" />
 		<property name="destination" value="Calle Jilguero, Sevilla" />
 		<property name="seat" value="1" />
@@ -8816,7 +8816,7 @@
 	<bean id="reservation122" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
 		<property name="destination" value="Calle Jilguero, Sevilla" />
@@ -8828,7 +8828,7 @@
 	<bean id="reservation123" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
@@ -8840,7 +8840,7 @@
 	<bean id="reservation124" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Felipe II, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8851,7 +8851,7 @@
 	<bean id="reservation125" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Montequinto, Sevilla" />
 		<property name="destination" value="Camas, Sevilla" />
 		<property name="seat" value="1" />
@@ -8862,7 +8862,7 @@
 	<bean id="reservation126" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Torre Sevilla, Sevilla" />
 		<property name="destination" value="Calle Jilguero, Sevilla" />
 		<property name="seat" value="1" />
@@ -8873,7 +8873,7 @@
 	<bean id="reservation127" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
@@ -8885,7 +8885,7 @@
 	<bean id="reservation128" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
@@ -8897,7 +8897,7 @@
 	<bean id="reservation129" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Sevilla Este, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8908,7 +8908,7 @@
 	<bean id="reservation130" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination"
 			value="Reina Mercedes (Escuela de Arquitectura), Sevilla" />
@@ -8920,7 +8920,7 @@
 	<bean id="reservation131" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Montequinto, Sevilla" />
 		<property name="destination" value="Gran Plaza, Sevilla" />
 		<property name="seat" value="1" />
@@ -8931,7 +8931,7 @@
 	<bean id="reservation132" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Avenida del Cid, Sevilla" />
 		<property name="seat" value="1" />
@@ -8942,7 +8942,7 @@
 	<bean id="reservation133" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Sevilla Este, Sevilla" />
@@ -8954,7 +8954,7 @@
 	<bean id="reservation134" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Macarena, Sevilla" />
 		<property name="destination" value="Camas, Sevilla" />
 		<property name="seat" value="1" />
@@ -8965,7 +8965,7 @@
 	<bean id="reservation135" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Felipe II, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -8976,7 +8976,7 @@
 	<bean id="reservation136" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Torre Sevilla, Sevilla" />
 		<property name="destination" value="Calle Jilguero, Sevilla" />
 		<property name="seat" value="1" />
@@ -8987,7 +8987,7 @@
 	<bean id="reservation137" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Plaza del Duque de la Victoria, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -8998,7 +8998,7 @@
 	<bean id="reservation138" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="San Bernardo, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
 		<property name="seat" value="1" />
@@ -9009,7 +9009,7 @@
 	<bean id="reservation139" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Sevilla Este, Sevilla" />
@@ -9021,7 +9021,7 @@
 	<bean id="reservation140" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
@@ -9033,7 +9033,7 @@
 	<bean id="reservation141" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Calle Jilguero, Sevilla" />
 		<property name="destination" value="Macarena, Sevilla" />
 		<property name="seat" value="1" />
@@ -9044,7 +9044,7 @@
 	<bean id="reservation142" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Montequinto, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -9055,7 +9055,7 @@
 	<bean id="reservation143" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Avenida de El Greco, Sevilla" />
 		<property name="destination" value="Montequinto, Sevilla" />
 		<property name="seat" value="1" />
@@ -9066,7 +9066,7 @@
 	<bean id="reservation144" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Calle Jilguero, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
 		<property name="seat" value="1" />
@@ -9077,7 +9077,7 @@
 	<bean id="reservation145" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Calle Jilguero, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
 		<property name="seat" value="1" />
@@ -9088,7 +9088,7 @@
 	<bean id="reservation146" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Camas, Sevilla" />
 		<property name="destination" value="Avenida del Cid, Sevilla" />
 		<property name="seat" value="1" />
@@ -9099,7 +9099,7 @@
 	<bean id="reservation147" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Sevilla Este, Sevilla" />
@@ -9111,7 +9111,7 @@
 	<bean id="reservation148" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="BIG" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="El Porvenir, Sevilla" />
@@ -9123,7 +9123,7 @@
 	<bean id="reservation149" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
@@ -9135,7 +9135,7 @@
 	<bean id="reservation150" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Avenida de El Greco, Sevilla" />
 		<property name="seat" value="1" />
@@ -9146,7 +9146,7 @@
 	<bean id="reservation151" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Macarena, Sevilla" />
 		<property name="destination" value="Calle Jilguero, Sevilla" />
 		<property name="seat" value="1" />
@@ -9157,7 +9157,7 @@
 	<bean id="reservation152" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin"
 			value="Nervión Plaza, Calle Luis de Morales, Sevilla" />
 		<property name="destination" value="Plaza del Duque de la Victoria, Sevilla" />
@@ -9169,7 +9169,7 @@
 	<bean id="reservation153" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="NOTHING" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -9180,7 +9180,7 @@
 	<bean id="reservation154" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Felipe II, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -9191,7 +9191,7 @@
 	<bean id="reservation155" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="SMALL" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Montequinto, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />
@@ -9202,7 +9202,7 @@
 	<bean id="reservation156" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Los Arcos, Avenida de Andalucía, Sevilla" />
 		<property name="destination" value="Avenida del Cid, Sevilla" />
 		<property name="seat" value="1" />
@@ -9213,7 +9213,7 @@
 	<bean id="reservation157" class="domain.Reservation">
 		<property name="paymentResolved" value="false" />
 		<property name="luggageSize" value="MEDIUM" />
-		<property name="price" value="1.1" />
+		<property name="price" value="1.25" />
 		<property name="origin" value="Felipe II, Sevilla" />
 		<property name="destination" value="Torre Sevilla, Sevilla" />
 		<property name="seat" value="1" />

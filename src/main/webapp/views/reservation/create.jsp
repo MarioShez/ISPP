@@ -142,14 +142,14 @@
 					price = price + (totalDistance - 9.0) * 0.11;
 				}
 				price = price * Number.parseInt(document.getElementById("seats").value);
-				price = Number.parseFloat(price + 0.1).toFixed(2);
+				price = Number.parseFloat(price + 0.25).toFixed(2);
 				document.getElementById("price").innerHTML = price.toString().concat("&euro;");
 				finalPrice = price * 100;
 				finalPrice = Number.parseInt(finalPrice);
 			}
 			else {
 				document.getElementById("price").innerHTML = "ERROR";
-				finalPrice = 110;
+				finalPrice = 125;
 			}
 		};
 		calculatePrice();

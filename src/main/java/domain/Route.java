@@ -94,7 +94,7 @@ public class Route extends DomainEntity {
 	}
 
 	@NotNull
-	@Min(value = (long) 1.10)
+	@Min(value = (long) 1.25)
 	public Double getPricePerPassenger() {
 		return this.pricePerPassenger;
 	}
@@ -210,5 +210,5 @@ public class Route extends DomainEntity {
 	public void setVehicle(final Vehicle vehicle) {
 		this.vehicle = vehicle;
 	}
-	
+
 }

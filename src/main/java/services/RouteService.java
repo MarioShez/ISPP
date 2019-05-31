@@ -98,7 +98,7 @@ public class RouteService {
 		r.setDaysRepeat("");
 		r.setEstimatedDuration(1);
 		r.setMaxLuggage(LuggageSize.NOTHING);
-		r.setPricePerPassenger(1.10d);
+		r.setPricePerPassenger(1.25d);
 
 		return r;
 	}
@@ -375,7 +375,7 @@ public class RouteService {
 
 	public Double getPrice(final double distance) {
 		Assert.isTrue(distance >= 0);
-		double result = 1.1d;
+		double result = 1.25d;
 		if (distance > 9d) {
 			result += (distance - 9d) * 0.11d;
 		}
