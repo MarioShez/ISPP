@@ -63,6 +63,13 @@ li {
 		align-items: inherit;
 		max-width: 100%;
 	}
+	
+	.route-route{
+		width: 100%;
+	}
+	.title-route-blue{
+		width: 100% !important;
+	}
 }
 
 }
@@ -91,21 +98,21 @@ li {
 <div class="text-center active-routes">
 	<h3>${routeMsg}</h3>
 </div>
-<center>
-	<div class="col-xs-12 col-sm-10 col-md-10 text-center">
+<div>
+	<div class="text-center">
 		<div class="content">
 			<!-- origin, destination and date -->
-			<center>
-				<div style= "width:60%">
+			<div>
+				<div class="title-route-blue" style= "width:60%; margin: 0 auto">
 
-					<div class="d-flex flex-column" style="font-size: calc(0.4em + 1vw); color:white; background-color: #00ACE2" >
+					<div class="d-flex flex-column" style="color:white; background-color: #00ACE2" >
 						<jstl:out value="${route.origin }"></jstl:out> 
 						<i class="fas fa-arrow-down"></i> 
 						<jstl:out value="${route.destination }"></jstl:out>
 					</div>
 
 				</div>
-			</center>
+			</div>
 
 
 			<div class="route-route">
@@ -721,4 +728,4 @@ li {
 
 	</div>
 	</div>
-</center>
+</div>
