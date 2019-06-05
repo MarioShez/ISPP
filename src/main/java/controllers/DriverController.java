@@ -119,13 +119,11 @@ public class DriverController extends AbstractController {
 				driver.setUserAccount(userAccount);
 				this.driverService.save(driver);
 				result = new ModelAndView("redirect:/security/login.do");
-			}
-			catch (IllegalArgumentException ex) {
-				result = this.createEditModelAndView(driver, "driver/create", "driver.error.email");
-			}
-			catch (final Throwable oops) {
-				result = this.createEditModelAndView(driver, "driver/create", "driver.commit.error");
-			}
+			} catch (final IllegalArgumentException ex) {
+			result = this.createEditModelAndView(driver, "driver/create", "driver.error.email");
+		} catch (final Throwable oops) {
+			result = this.createEditModelAndView(driver, "driver/create", "driver.commit.error");
+		}
 		return result;
 	}
 	// Edition -----------------------------------------------------------
