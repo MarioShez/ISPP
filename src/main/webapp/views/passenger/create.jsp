@@ -58,47 +58,74 @@
 	<form:hidden path="userAccount.version" />
 	<form:hidden path="userAccount.authorities" />
 
+	<div class="title background_pink d-flex flex-column align-items-center" style="color: white;">
+		
+		<a href="security/login.do">
+			<img src="images/trondicon-header-white.png" width="82px" height="42px">
+		</a>
+		<h1>
+			<spring:message code="passenger.register.save" />: 
+		</h1>
+				
+	</div>
 
 	<div
 		class="resume d-flex flex-column justify-content-center align-items-center">
+			
 
 			<div class="form-row">
 			<div class="col">
+			<span>
+				<p>
+					
+						<spring:message code="passenger.name" />: 
+				</p>
+			</span>
 			<spring:message code="passenger.name" var="passengerName"/>
 				<form:input path="name" type="text" class="form-control"
 					placeholder="${passengerName}"/>
 				<form:errors cssClass="error" path="name" />
-				<br />
 			</div>
 		</div>
 		<div class="form-row">
 			<div class="col">
+			<span>
+				<p>
+						<spring:message code="passenger.surname" />: 
+				</p>
+			</span>
 			<spring:message code="passenger.surname" var="passengerSurname"/>
 				<form:input path="surname" type="text" class="form-control"
 					placeholder="${passengerSurname }"/>
 				<form:errors cssClass="error" path="surname" />
-				<br />
 			</div>
 		</div>
 
-		</br>
 
 		<div class="form-row">
 			<div class="col">
+			<span>
+				<p>
+						<spring:message code="passenger.country" />: 
+				</p>
+			</span>
 			<spring:message code="passenger.country" var="passengerCountry"/>
 				<form:input path="country" type="text" class="form-control"
 					placeholder="${passengerCountry }"/>
 				<form:errors cssClass="error" path="country" />
-				<br />
 			</div>
 		</div>
 		<div class="form-row">
 			<div class="col">
+			<span>
+				<p>
+						<spring:message code="passenger.city" />: 
+				</p>
+			</span>
 			<spring:message code="passenger.city" var="passengerCity"/>
 				<form:input path="city" type="text" class="form-control"
 					placeholder="${passengerCity }"/>
 				<form:errors cssClass="error" path="city" />
-				<br />
 
 			</div>
 
@@ -106,57 +133,78 @@
 
 		<div class="form-row">
 			<div class="col">
+			<span>
+				<p>
+						<spring:message code="passenger.phone" />: 
+				</p>
+			</span>
 			<spring:message code="passenger.phone" var="passengerPhone"/>
 				<form:input path="phone" type="text" class="form-control"
 					placeholder="${passengerPhone }"/>
 				<form:errors cssClass="error" path="phone" />
-				<br />
 			</div>
 
 		</div>
 
 		<div class="form-row">
 			<div class="col">
+			<span>
+				<p>
+					<spring:message code="passenger.username" />:
+				</p>
+			</span>
 			<spring:message code="passenger.username" var="passengerUsername"/>
 				<form:input path="userAccount.username" type="text" class="form-control"
 					placeholder="${passengerUsername }"/>
 				<form:errors cssClass="error" path="userAccount.username" />
-				<br />
 			</div>
 		</div>
 		<div class="form-row">
 			<div class="col">
+			<span>
+				<p>
+						<spring:message code="passenger.password" />: 
+				</p>
+			</span>	
 			<spring:message code="passenger.password" var="passengerPass"/>
 				<form:input path="userAccount.password" type="password" class="form-control"
 					placeholder="${passengerPass }"/>
 				<form:errors cssClass="error" path="userAccount.password" />
-				<br />
 			</div>
 		</div>
 		
 		<div class="form-row">
 			<div class="col">
+			<span>
+				<p>
+					<spring:message code="passenger.image" />:
+				</p>
+			</span>
 			<spring:message code="passenger.image" var="passengerImage"/>
 				<form:input path="image" type="text" class="form-control"
 					placeholder="${passengerImage }"/>
 				<form:errors cssClass="error" path="image" />
-				<br />
 			</div>
 		</div>
 
 
 		<div class="form-row">
 			<div class="col">
+			<span>
+				<p>
+					<spring:message code="passenger.bankAccountNumber" />:
+				</p>
+			</span>
 			<spring:message code="passenger.bankAccountNumber" var="passengerBA"/>
 				<form:input path="bankAccountNumber" type="text" class="form-control"
 					placeholder="${passengerBA }"/>
 				<form:errors cssClass="error" path="bankAccountNumber" />
-				<br />
 			</div>
 		</div>
 
 
 	<div>
+	<br/>
 		<input type="checkbox" name="terms"><a href="welcome/termsAndConditions.do"><spring:message code="passenger.terms"/></a>
 	</div>
 		
