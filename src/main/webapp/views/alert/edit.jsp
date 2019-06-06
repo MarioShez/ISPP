@@ -50,7 +50,7 @@
 				<spring:message code="alert.alertBody" />: 
 				</form:label>
 			<div style="padding-left: 25px">
-				<form:input path="alertBody" class="form-control" />
+				<form:textarea maxlength="200" path="alertBody" class="form-control" />
 				<form:errors cssClass="error" path="alertBody" />
 			</div>
 		</div>
