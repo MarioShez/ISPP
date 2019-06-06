@@ -215,7 +215,7 @@ li {
 													<form:label path="text">
 														<spring:message code="comment.text" />:
                					</form:label>
-													<form:input path="text" class="form-control" />
+													<form:textarea maxlength="200" path="text" class="form-control" />
 													<form:errors cssClass="error" path="text" />
 													<br />
 
@@ -408,7 +408,7 @@ li {
 														<form:label path="text">
 															<spring:message code="comment.text" />:
 	                    							</form:label>
-														<form:input type="text" path="text" class="form-control"/>
+														<form:textarea maxlength="200" type="text" path="text" class="form-control"/>
 														<form:errors cssClass="error" path="text" />
 														<br />
 	

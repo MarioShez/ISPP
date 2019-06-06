@@ -20,9 +20,9 @@
 	uri="http://www.springframework.org/security/tags"%>
 <%@taglib prefix="display" uri="http://displaytag.sf.net"%>
 <style>
-html {
+/* html {
 	font-size: calc(0.5em + 1vw)
-}
+} */
 </style>
 
 <%-- Stored message variables --%>
@@ -30,7 +30,7 @@ html {
 
 <div class="text-center active-routes">
 
-	<h3>
+	<h3 style="font-size: 1.75rem;">
 		<spring:message code="alerts.list" />
 	</h3>
 
