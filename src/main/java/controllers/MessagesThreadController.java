@@ -21,8 +21,12 @@ import services.MessagesThreadService;
 import services.RouteService;
 import domain.Actor;
 import domain.Administrator;
+import domain.Driver;
 import domain.Message;
 import domain.MessagesThread;
+import domain.Passenger;
+import domain.Reservation;
+import domain.ReservationStatus;
 import domain.Route;
 import forms.MessageForm;
 import forms.ThreadForm;
@@ -185,8 +189,37 @@ public class MessagesThreadController extends AbstractController {
 		final Actor reportingUser = this.actorService.findByPrincipal();
 		final Actor reportedUser = this.actorService.findOne(userId);
 		final Route route = this.routeService.findOne(routeId);
+		boolean passengerParticipant = false;
 
 		ModelAndView result;
+
+		// Si el usuario QUE REPORTA es PASAJERO
+		if (reportingUser instanceof Passenger) {
+			//Asegurarse que esta reportando al conductor de la ruta
+			Assert.isTrue(reportedUser.getId() == route.getDriver().getId());
+			//Tambien asegurarse que el PASAJERO QUE REPORTA es PARTICIPANTE de la ruta
+			for (final Reservation res : route.getReservations())
+				if (res.getStatus() == ReservationStatus.ACCEPTED && res.getPassenger().getId() == reportingUser.getId()) {
+					passengerParticipant = true;
+					break;
+				}
+			//Si el PASAJERO QUE REPORTA no es PARTICIPANTE devuelve vista de error 403
+			if (!passengerParticipant)
+				result = new ModelAndView("redirect:/misc/403.do");
+			// Si el usuario QUE REPORTA es CONDUCTOR
+		} else if (reportingUser instanceof Driver) {
+			//Asegurarse que es el conductor de la ruta
+			Assert.isTrue(reportingUser.getId() == route.getDriver().getId());
+			//Tambien asegurarse que el PASAJERO REPORTADO es PARTICIPANTE de la ruta
+			for (final Reservation res : route.getReservations())
+				if (res.getStatus() == ReservationStatus.ACCEPTED && res.getPassenger().getId() == reportedUser.getId()) {
+					passengerParticipant = true;
+					break;
+				}
+			//Si el PASAJERO REPORTADO no es PARTICIPANTE devuelve vista de error 403
+			if (!passengerParticipant)
+				result = new ModelAndView("redirect:/misc/403.do");
+		}
 
 		if ((reportedUser == null || route == null || reportingUser.getId() == reportedUser.getId()) || (!this.mtService.canReport(reportedUser, route)))
 			// Error, redirigir a 403
